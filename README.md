@@ -1,6 +1,8 @@
 ## Medal_ranking (Python & SQL)
 A Python script that determines the Olympic 2026 medal color based on the athelte's score. Also, implement ** persistent data storage** using SQL database.
 
+Architected a data-driven application by independently learning RDBMS principles. Selected SQLite for its efficiency in local storage and implemented parameterized queries to prevent common security vulnerabilities, demonstrating a proactive approach to Secure Coding.
+
 ## Overview
 - 158 or more: Gold Medal and word record
 - 152 or more: Gold Medal
